@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513444408 source:d:\final project(personal diary)\personal diary management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
